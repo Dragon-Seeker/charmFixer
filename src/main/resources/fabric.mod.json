@@ -9,7 +9,7 @@
     "Blodhgarm"
   ],
   "contact": {
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Dragon-Seeker/charmFixer"
   },
 
   "license": "CC0-1.0",
@@ -23,6 +23,7 @@
   "depends": {
     "fabricloader": ">=0.14.9",
     "minecraft": "~1.19",
-    "java": ">=17"
+    "java": ">=17",
+    "charm": ">=4.0.0"
   }
 }
