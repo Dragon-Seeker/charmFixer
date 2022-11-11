@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.blodhgarm.charm_fixer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "DisableCharmModulesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
